@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Ascending order
+]]>
+    </line>
+    <line>
+      <![CDATA[***************************************************************
+]]>
+    </line>
+    <line>
+      <![CDATA[Arizona Writing Table In Flowery Wenge Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Artava Solid Wood Bench In Warm Chestnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Audace Medium Back Executive Chair In White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Grey Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Charming Wing Chair In Beige Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Chest Of Drawer In Blue And Cream Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Chicago TV Unit In White & Wenge Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Comet Ergonomic Chair In Black & White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Comet Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Conrad Portable Laptop Table In Wenge Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Drake Mid Back Executive Chair In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Elegant Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Empire Height Adjusting Portable Laptop Table In Dark Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Friends Bedside Table In White & Lime Green Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Genji Study Table In Columbia Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Homa Collapsible Shoe Rack In Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Homa Collapsible Shoe Rack In White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Hutch Corner Study Table In Frosty White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Jazz Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Kennewick Solid Wood Portable Laptop Table In Provincial Teak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Leno Zebra Ergonomic Chair In Black & White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Marvel Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Montoya 4 Seater Round Dining Table Set In Brown Color
+]]>
+    </line>
+    <line>
+      <![CDATA[Outdoor Swing In Off White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Ozone 3 Door Wardrobe In Teak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Ozone 3 Door Wardrobe With Mirror In Teak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Paloma Queen Size Bed With Storage In Black Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Piccolo Cotton Swing In Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Prestic Medium Back Executive Chair In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Quotes Writing Board In Dark Bule Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Regal 1 Door Wardrobe With Drawer & Mirror In Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Regal Delux Dresser In White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Rio 2 Seater Manual Recliner In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Rio 3 Seater Manual Recliner In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[SOS LiteOffice Round Discussion Table In Everest White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Sasaki 3 Seater Sofa In Walnut Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Scorpion Study Table With Book Shelves & Cabinet In Knotty Wood Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Seoul Writing Table With Book Shelf In Frosty White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Shinju Queen Size Upholstered Bed With Storage In Wenge Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[The Chester Chest Of Drawer In Voilet Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Thomas Wall Mounted Tv Unit In Wenge Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Vernon 3 Seater Sofa Cum Bed In Dark Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Voyager Portable Table In Brazilian Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Wooden Analog Wall Clock
+]]>
+    </line>
+    <line>
+      <![CDATA[Zeno Coffee Table In African Oak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[****************************************************************
+]]>
+    </line>
+    <line>
+      <![CDATA[Descending order
+]]>
+    </line>
+    <line>
+      <![CDATA[****************************************************************
+]]>
+    </line>
+    <line>
+      <![CDATA[Zeno Coffee Table In African Oak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Wooden Analog Wall Clock
+]]>
+    </line>
+    <line>
+      <![CDATA[Voyager Portable Table In Brazilian Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Vernon 3 Seater Sofa Cum Bed In Dark Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Thomas Wall Mounted Tv Unit In Wenge Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[The Chester Chest Of Drawer In Voilet Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Shinju Queen Size Upholstered Bed With Storage In Wenge Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Seoul Writing Table With Book Shelf In Frosty White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Scorpion Study Table With Book Shelves & Cabinet In Knotty Wood Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Sasaki 3 Seater Sofa In Walnut Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[SOS LiteOffice Round Discussion Table In Everest White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Rio 3 Seater Manual Recliner In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Rio 2 Seater Manual Recliner In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Regal Delux Dresser In White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Regal 1 Door Wardrobe With Drawer & Mirror In Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Quotes Writing Board In Dark Bule Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Prestic Medium Back Executive Chair In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Piccolo Cotton Swing In Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Paloma Queen Size Bed With Storage In Black Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Ozone 3 Door Wardrobe With Mirror In Teak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Ozone 3 Door Wardrobe In Teak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Outdoor Swing In Off White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Montoya 4 Seater Round Dining Table Set In Brown Color
+]]>
+    </line>
+    <line>
+      <![CDATA[Marvel Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Leno Zebra Ergonomic Chair In Black & White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Kennewick Solid Wood Portable Laptop Table In Provincial Teak Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Jazz Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Hutch Corner Study Table In Frosty White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Homa Collapsible Shoe Rack In White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Homa Collapsible Shoe Rack In Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Genji Study Table In Columbia Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Friends Bedside Table In White & Lime Green Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Empire Height Adjusting Portable Laptop Table In Dark Walnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Elegant Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Drake Mid Back Executive Chair In Brown Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Conrad Portable Laptop Table In Wenge Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Comet Ergonomic Chair In Black Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Comet Ergonomic Chair In Black & White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Chicago TV Unit In White & Wenge Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Chest Of Drawer In Blue And Cream Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Charming Wing Chair In Beige Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Grey Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Bali 3 Seater Sofa In Blue Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Audace Medium Back Executive Chair In White Colour
+]]>
+    </line>
+    <line>
+      <![CDATA[Artava Solid Wood Bench In Warm Chestnut Finish
+]]>
+    </line>
+    <line>
+      <![CDATA[Arizona Writing Table In Flowery Wenge Finish
+]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-09-22T15:02:02 CDT" name="Suite" finished-at="2021-09-22T15:02:18 CDT" duration-ms="15763">
+    <groups>
+    </groups>
+    <test started-at="2021-09-22T15:02:02 CDT" name="Test" finished-at="2021-09-22T15:02:18 CDT" duration-ms="15763">
+      <class name="com.pepperfry.qa.test.SearchFieldTest">
+        <test-method is-config="true" signature="init(java.lang.String)[pri:0, instance:com.pepperfry.qa.test.SearchFieldTest@741a8937]" started-at="2021-09-22T15:02:02 CDT" name="init" finished-at="2021-09-22T15:02:12 CDT" duration-ms="10288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.pepperfry.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="titleTest()[pri:0, instance:com.pepperfry.qa.test.SearchFieldTest@741a8937]" started-at="2021-09-22T15:02:12 CDT" name="titleTest" finished-at="2021-09-22T15:02:12 CDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method signature="searchFieldTest(java.lang.String)[pri:1, instance:com.pepperfry.qa.test.SearchFieldTest@741a8937]" started-at="2021-09-22T15:02:12 CDT" name="searchFieldTest" finished-at="2021-09-22T15:02:16 CDT" duration-ms="4082" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[furniture]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Ascending order
+]]>
+            </line>
+            <line>
+              <![CDATA[***************************************************************
+]]>
+            </line>
+            <line>
+              <![CDATA[Arizona Writing Table In Flowery Wenge Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Artava Solid Wood Bench In Warm Chestnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Audace Medium Back Executive Chair In White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Grey Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Charming Wing Chair In Beige Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Chest Of Drawer In Blue And Cream Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Chicago TV Unit In White & Wenge Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Comet Ergonomic Chair In Black & White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Comet Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Conrad Portable Laptop Table In Wenge Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Drake Mid Back Executive Chair In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Elegant Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Empire Height Adjusting Portable Laptop Table In Dark Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Friends Bedside Table In White & Lime Green Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Genji Study Table In Columbia Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Homa Collapsible Shoe Rack In Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Homa Collapsible Shoe Rack In White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Hutch Corner Study Table In Frosty White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Jazz Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Kennewick Solid Wood Portable Laptop Table In Provincial Teak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Leno Zebra Ergonomic Chair In Black & White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Marvel Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Montoya 4 Seater Round Dining Table Set In Brown Color
+]]>
+            </line>
+            <line>
+              <![CDATA[Outdoor Swing In Off White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Ozone 3 Door Wardrobe In Teak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Ozone 3 Door Wardrobe With Mirror In Teak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Paloma Queen Size Bed With Storage In Black Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Piccolo Cotton Swing In Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Prestic Medium Back Executive Chair In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Quotes Writing Board In Dark Bule Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Regal 1 Door Wardrobe With Drawer & Mirror In Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Regal Delux Dresser In White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Rio 2 Seater Manual Recliner In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Rio 3 Seater Manual Recliner In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[SOS LiteOffice Round Discussion Table In Everest White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Sasaki 3 Seater Sofa In Walnut Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Scorpion Study Table With Book Shelves & Cabinet In Knotty Wood Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Seoul Writing Table With Book Shelf In Frosty White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Shinju Queen Size Upholstered Bed With Storage In Wenge Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[The Chester Chest Of Drawer In Voilet Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Thomas Wall Mounted Tv Unit In Wenge Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Vernon 3 Seater Sofa Cum Bed In Dark Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Voyager Portable Table In Brazilian Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Wooden Analog Wall Clock
+]]>
+            </line>
+            <line>
+              <![CDATA[Zeno Coffee Table In African Oak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[****************************************************************
+]]>
+            </line>
+            <line>
+              <![CDATA[Descending order
+]]>
+            </line>
+            <line>
+              <![CDATA[****************************************************************
+]]>
+            </line>
+            <line>
+              <![CDATA[Zeno Coffee Table In African Oak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Wooden Analog Wall Clock
+]]>
+            </line>
+            <line>
+              <![CDATA[Voyager Portable Table In Brazilian Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Vernon 3 Seater Sofa Cum Bed In Dark Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Thomas Wall Mounted Tv Unit In Wenge Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[The Chester Chest Of Drawer In Voilet Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Shinju Queen Size Upholstered Bed With Storage In Wenge Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Seoul Writing Table With Book Shelf In Frosty White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Scorpion Study Table With Book Shelves & Cabinet In Knotty Wood Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Sasaki 3 Seater Sofa In Walnut Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[SOS LiteOffice Round Discussion Table In Everest White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Rio 3 Seater Manual Recliner In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Rio 2 Seater Manual Recliner In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Regal Delux Dresser In White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Regal 1 Door Wardrobe With Drawer & Mirror In Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Quotes Writing Board In Dark Bule Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Prestic Medium Back Executive Chair In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Piccolo Cotton Swing In Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Paloma Queen Size Bed With Storage In Black Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Ozone 3 Door Wardrobe With Mirror In Teak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Ozone 3 Door Wardrobe In Teak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Outdoor Swing In Off White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Montoya 4 Seater Round Dining Table Set In Brown Color
+]]>
+            </line>
+            <line>
+              <![CDATA[Marvel Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Leno Zebra Ergonomic Chair In Black & White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Kennewick Solid Wood Portable Laptop Table In Provincial Teak Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Jazz Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Hutch Corner Study Table In Frosty White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Homa Collapsible Shoe Rack In White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Homa Collapsible Shoe Rack In Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Genji Study Table In Columbia Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Friends Bedside Table In White & Lime Green Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Empire Height Adjusting Portable Laptop Table In Dark Walnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Elegant Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Drake Mid Back Executive Chair In Brown Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Conrad Portable Laptop Table In Wenge Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Comet Ergonomic Chair In Black Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Comet Ergonomic Chair In Black & White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Chicago TV Unit In White & Wenge Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Chest Of Drawer In Blue And Cream Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Charming Wing Chair In Beige Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater RHS Sectional Sofa In Black & Grey Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bliss 6 Seater LHS Sectional Sofa In Black & Grey Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Grey Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Bali 3 Seater Sofa In Blue Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Audace Medium Back Executive Chair In White Colour
+]]>
+            </line>
+            <line>
+              <![CDATA[Artava Solid Wood Bench In Warm Chestnut Finish
+]]>
+            </line>
+            <line>
+              <![CDATA[Arizona Writing Table In Flowery Wenge Finish
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchFieldTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pepperfry.qa.test.SearchFieldTest@741a8937]" started-at="2021-09-22T15:02:16 CDT" name="tearDown" finished-at="2021-09-22T15:02:18 CDT" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pepperfry.qa.test.SearchFieldTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
